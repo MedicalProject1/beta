@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 2019-20 corona
-date: 2020-02-23 14:50:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: 02corona.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+date: 2020-02-23 15:21:00 +0300
+description: 이 부분은 description으로 제어할 수 있는 부분입니다.
+img: 02corona.jpg
+fig-caption: 마스크를 사기 위해 줄을 서고 있는 사람들.
 tags: [Holidays, Hawaii]
 ---
 
