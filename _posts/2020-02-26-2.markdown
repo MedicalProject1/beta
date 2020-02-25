@@ -2,8 +2,9 @@
 layout: post
 title: 비염
 date: 2020-02-26 00:00:00 +0300
-description: https://www.alamy.com/allergic-rhinitis-image7713060.html
-img: rhi.jpg # Add image post (optional)
+description: 이게 뭘까
+img: rhi.jpg
+fig-caption: https://www.alamy.com/allergic-rhinitis-image7713060.html
 tags: [Productivity, Software] # add tag
 ---
 
